@@ -160,6 +160,10 @@ Focus areas for contribution:
 - Hangfire / background job patterns
 - SignalR real-time patterns
 - Multi-tenancy patterns
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4222154 (Initialize)
 ## License
 
 MIT — use freely in personal and commercial projects.
